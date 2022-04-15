@@ -18,7 +18,7 @@ fun main(args:Array<String>){
     }
 fun us(args: Array<String>){
     var p = 3
-    while (p<=10){
+    while (p<=12){
         println("line $p")
         ++p    // represents an increment.
 
